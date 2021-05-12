@@ -1,0 +1,2 @@
+# AzureServerless
+Acloud Guru tutorial
